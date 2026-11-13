@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated files (they are recreated every time you run the pipeline)
+database/*.db
+logs/*.log
+data/processed/*.csv
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/

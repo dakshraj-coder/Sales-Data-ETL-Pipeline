@@ -1,0 +1,237 @@
+order_id,order_date,customer_id,customer_name,city,product_id,product_name,category,quantity,unit_price,discount_percent,payment_method
+ORD-240001,18 Feb 2024,C1039,NEHA NAIR,Kochi,P015,Resistance Bands Set,Fitness,2,549,5,Cash on Delivery
+ORD-240002,01 Jan 2024,C1017,Neha Reddy,Kolkata,P017,Dumbbell Pair 5kg,Fitness,2,1299.00,5,Net Banking
+ORD-240003,01 Jan 2024,C1039,Neha Nair,Kochi,P011,Non-Stick Frying Pan,Home & Kitchen,1,1099,0,credit card
+ORD-240004,2024-01-17,C1043,Vivaan Reddy,Mumbai,P016,Skipping Rope,Fitness,4,249,0,UPI
+ORD-240005,2024-02-17,C1029,Rohan Das,Kolkata,P017,Dumbbell Pair 5kg,Fitness,1,1299,0,COD
+ORD-240006,2024-01-10,C1033,  Priya Singh ,Chennai,P008,Desk Organizer,Stationery,1,450,0,Net Banking
+ORD-240007,2024-02-15,C1028,Neha Joshi,Delhi,P014,Yoga Mat,FITNESS,1,799.00,150,UPI
+ORD-240008,not available,C1012,,Mumbai,P009,Highlighter Set,Stationery,1,220,15,Net Banking
+ORD-240009,31 Jan 2024,C1011,Rohan Joshi,  Kolkata ,P014,Yoga Mat,FITNESS,1,799,0,Net Banking
+ORD-240010,2024-03-12,C1043,VIVAAN REDDY,Mumbai,P016,Skipping Rope,FITNESS,1,249,,Credit Card
+ORD-240011,06/03/2024,C1006,Karthik Iyer,jaipur,P006,Spiral Notebook A5,Stationery,1,120,0,Debit Card
+ORD-240012,2024-02-10,C1017,,Kolkata,P007,Gel Pen Pack of 10,Stationery,2,150,0,UPI
+ORD-240013,2024-01-13,C1005,Vivaan Sharma,BENGALURU,P018,Python Programming Handbook,Books,1,499,0,Debit Card
+ORD-240148,2024-03-15,C1038,Ishaan Joshi,Jaipur,P014,Yoga Mat,Fitness,1,799.00,0,UPI
+ORD-240014,2024-03-24,C1034,Aditya Iyer,Kochi,P001,Wireless Mouse,  Electronics ,2,699,5,Debit Card
+ORD-240015,13 Feb 2024,C1014,Aditya Singh,bengaluru,P009,Highlighter Set,Stationery,2,220,,Net Banking
+ORD-240016,2024-02-26,C1036,Kavya Kumar,Ahmedabad,P014,Yoga Mat,Fitness,2,₹799.00,0,UPI
+ORD-240017,2024-01-06,C1023,Sai Singh,Chennai,P007,Gel Pen Pack of 10,Stationery,2,150.00,10,UPI
+ORD-240018,22/02/2024,C1002,Ishaan Iyer,Mumbai,P006,Spiral Notebook A5,Stationery,2,120,0,Cash on Delivery
+ORD-240019,29/01/2024,C1013,Karthik Gupta,BENGALURU,P015,Resistance Bands Set,  Fitness ,1,549,15,Net Banking
+ORD-240020,2024-03-09,C1022,Diya Reddy,Delhi,P001,Wireless Mouse,electronics,1,699,0,UPI
+ORD-240021,2024-03-14,C1013,Karthik Gupta,Bengaluru,P009,Highlighter Set,Stationery,1,220.00,0,UPI
+ORD-240022,2024-03-20,C1021,Vivaan Kumar,Delhi,P004,Power Bank 10000mAh,Electronics,2,1499,0,Cash on Delivery
+ORD-240023,2024-03-19,C1037,Arjun Nair,Mumbai,P010,Steel Water Bottle 1L,Home & Kitchen,,599.00,15,Credit Card
+ORD-240024,22/01/2024,C1043,Vivaan Reddy,Mumbai,P003,Bluetooth Speaker,Electronics,1,1999.00,10,UPI
+ORD-240025,19/03/2024,C1005,Vivaan Sharma,Bengaluru,P015,Resistance Bands Set,Fitness,1,549,10,Net Banking
+ORD-240026,2024-01-29,C1012,Priya Nair,Mumbai,P017,Dumbbell Pair 5kg,Fitness,1,1299.00,5,Debit Card
+ORD-240027,05/03/2024,C1028,Neha Joshi,Delhi,P018,Python Programming Handbook,Books,1,499.00,0,Debit Card
+ORD-240028,2024-02-06,C1016,  Ananya Sharma ,Ahmedabad,P009,Highlighter Set,  Stationery ,1,220,5,UPI
+ORD-240029,23 Feb 2024,C1025,Rohan Gupta,Pune,P019,SQL Basics Guide,BOOKS,4,399,0,Net Banking
+ORD-240030,2024-03-10,C1039,NEHA NAIR,Kochi,P008,Desk Organizer,Stationery,1,450,0,Credit Card
+ORD-240031,20/02/2024,C1038,  Ishaan Joshi ,Jaipur,P019,SQL Basics Guide,BOOKS,2,399,0,UPI
+ORD-240032,2024-02-23,C1017,Neha Reddy,Kolkata,P003,Bluetooth Speaker,Electronics,1,1999.00,10,Net Banking
+ORD-240033,2024-03-20,C1010,Varun Nair,Hyderabad,P008,Desk Organizer,Stationery,1,450,10,Cash on Delivery
+ORD-240034,09/02/2024,C1007,Sanjana Sharma,Jaipur,P019,SQL Basics Guide,Books,1,399,0,Net Banking
+ORD-240035,28/03/2024,C1039,Neha Nair,Kochi,P004,Power Bank 10000mAh,Electronics,3,1499,5,Net Banking
+ORD-240036,2024-02-16,C1041,Sneha Iyer,Mumbai,P015,Resistance Bands Set,Fitness,2.5,Rs. 549,0,Credit Card
+ORD-240037,01/02/2024,C1006,Karthik Iyer,Jaipur,P009,Highlighter Set,Stationery,3,220,0,Credit Card
+ORD-240038,17 Mar 2024,C1045,sanjana reddy,Kolkata,P009,Highlighter Set,Stationery,2,220.00,5,COD
+ORD-240039,2024-01-29,C1026,Karthik Kumar,Chennai,P008,Desk Organizer,Stationery,1,450,5,Credit Card
+ORD-240040,25/01/2024,C1021,  Vivaan Kumar ,Delhi,P004,Power Bank 10000mAh,Electronics,2,1499,15,Debit Card
+ORD-240041,2024-01-30,C1024,Nisha Kumar,Pune,P006,Spiral Notebook A5,Stationery,1,120.00,10,COD
+ORD-240042,2024-03-01,C1031,Ishaan Kumar,pune,P015,Resistance Bands Set,FITNESS,1,549,0,Cash on Delivery
+ORD-240043,2024-02-08,C1006,Karthik Iyer,Jaipur,P008,Desk Organizer,Stationery,1,450,15,UPI
+ORD-240044,20 Mar 2024,C1004,  Aditya Rao ,Kolkata,P020,Data Analysis Workbook,Books,5,449,0,UPI
+ORD-240045,2024-03-01,C1019,Sanjana Gupta,KOCHI,P002,USB-C Cable,Electronics,1,349,10,Debit Card
+ORD-240046,2024-03-10,C1015,SNEHA GUPTA,Kochi,P005,Wired Earphones,Electronics,4,₹899.00,15,Credit Card
+ORD-240047,04/02/2024,C1033,Priya Singh,Chennai,P018,Python Programming Handbook,Books,1,499,0,Cash on Delivery
+ORD-240048,2024-03-27,C1018,Aditya Mehta,Chennai,P019,SQL Basics Guide,Books,1,Rs. 399,15,Net Banking
+ORD-240049,2024-02-12,C1021,Vivaan Kumar,Delhi,P004,Power Bank 10000mAh,Electronics,3,1499.00,,UPI
+ORD-240050,2024-02-21,C1033,PRIYA SINGH,Chennai,P001,Wireless Mouse,Electronics,2,699,5,UPI
+ORD-240051,26/02/2024,C1045,Sanjana Reddy,  Kolkata ,P016,Skipping Rope,Fitness,1,249,10,Net Banking
+ORD-240052,2024-01-20,C1032,Vivaan Iyer,Hyderabad,P010,Steel Water Bottle 1L,Home & Kitchen,2,599,0,Debit Card
+ORD-240053,2024-02-05,C1027,ADITYA RAO,Mumbai,P011,Non-Stick Frying Pan,Home & Kitchen,4,1099,5,Net Banking
+ORD-240054,11 Mar 2024,C1035,Priya Iyer,Ahmedabad,P013,Storage Box Set,Home & Kitchen,1,₹799.00,0,UPI
+ORD-240055,2024-02-19,C1043,,Mumbai,P005,Wired Earphones,electronics,1,₹899.00,0,Credit Card
+ORD-240056,2024-01-20,C1005,Vivaan Sharma,Bengaluru,P016,Skipping Rope,Fitness,3,₹249.00,0,Credit Card
+ORD-240057,03/03/2024,C1035,Priya Iyer,Ahmedabad,P002,USB-C Cable,Electronics,2,349,0,Cash on Delivery
+ORD-240058,2024-02-08,C1002,Ishaan Iyer,  Mumbai ,P002,USB-C Cable,Electronics,1,349,0,UPI
+ORD-240059,2024-03-28,C1016,Ananya Sharma,Ahmedabad,P016,Skipping Rope,Fitness,4,₹249.00,0,UPI
+ORD-240060,14/02/2024,C1038,Ishaan Joshi,Jaipur,P010,Steel Water Bottle 1L,Home & Kitchen,2,₹599.00,0,Credit Card
+ORD-240061,07 Feb 2024,C1002,Ishaan Iyer,Mumbai,P013,Storage Box Set,Home & Kitchen,1,799.00,5,UPI
+ORD-240062,29/01/2024,C1041,Sneha Iyer,Mumbai,P007,Gel Pen Pack of 10,  Stationery ,2,150,10,UPI
+ORD-240063,2024-01-17,C1006,  Karthik Iyer ,Jaipur,P010,Steel Water Bottle 1L,Home & Kitchen,1,599,0,Net Banking
+ORD-240064,2024-02-07,C1022,Diya Reddy,Delhi,P004,Power Bank 10000mAh,Electronics,1,"Rs. 1,499",0,Net Banking
+ORD-240065,03/02/2024,C1035,Priya Iyer,Ahmedabad,P004,Power Bank 10000mAh,Electronics,1,1499,10,Credit Card
+ORD-240066,19 Mar 2024,C1015,Sneha Gupta,Kochi,P003,Bluetooth Speaker,  Electronics ,2,"Rs. 1,999",0,Credit Card
+ORD-240067,19/02/2024,C1030,Ananya Kumar,Jaipur,P012,LED Desk Lamp,Home & Kitchen,2,₹899.00,10,Net Banking
+ORD-240068,05 Jan 2024,C1045,Sanjana Reddy,kolkata,P012,LED Desk Lamp,Home & Kitchen,1,899,0,UPI
+ORD-240069,28 Feb 2024,C1006,KARTHIK IYER,Jaipur,P007,Gel Pen Pack of 10,Stationery,2,150.00,5,Net Banking
+ORD-240070,2024-01-30,C1022,Diya Reddy,  Delhi ,P005,Wired Earphones,electronics,3,899,5,Cash on Delivery
+ORD-240071,2024-01-31,C1038,Ishaan Joshi,Jaipur,P011,Non-Stick Frying Pan,Home & Kitchen,1,1099,0,Debit Card
+ORD-240072,19 Mar 2024,C1003,SAI KUMAR,Jaipur,P017,Dumbbell Pair 5kg,Fitness,1,1299.00,10,Credit Card
+ORD-240073,2024-01-09,C1009,Meera Iyer,Ahmedabad,P009,Highlighter Set,Stationery,2,220,5,UPI
+ORD-240074,2024-03-11,C1014,Aditya Singh,Bengaluru,P014,Yoga Mat,Fitness,1,799,0,UPI
+ORD-240075,09/01/2024,C1006,Karthik Iyer,  Jaipur ,P003,Bluetooth Speaker,ELECTRONICS,1,"Rs. 1,999",0,Cash on Delivery
+ORD-240076,2024-02-24,C1004,Aditya Rao,  Kolkata ,P010,Steel Water Bottle 1L,Home & Kitchen,2,₹599.00,0,Debit Card
+ORD-240077,24/02/2024,C1036,Kavya Kumar,Ahmedabad,P020,Data Analysis Workbook,Books,2,449,10,credit card
+ORD-240078,13/03/2024,C1043,VIVAAN REDDY,Mumbai,P013,Storage Box Set,Home & Kitchen,1,799,10,UPI
+ORD-240079,17/03/2024,C1006,Karthik Iyer,Jaipur,P002,USB-C Cable,Electronics,1,349,15,UPI
+ORD-240080,2024-01-15,C1019,Sanjana Gupta,Kochi,P019,SQL Basics Guide,BOOKS,1,399,10,Net Banking
+ORD-240081,2024-01-01,C1032,Vivaan Iyer,,P014,Yoga Mat,Fitness,1,799,0,Cash on Delivery
+ORD-240082,10/02/2024,C1037,Arjun Nair,Mumbai,P014,Yoga Mat,Fitness,2,799,10,upi
+ORD-240083,2024-02-01,C1028,Neha Joshi,Delhi,P019,SQL Basics Guide,Books,1,399,0,UPI
+ORD-240084,2024-02-14,C1042,  Rahul Das ,  Bengaluru ,P005,Wired Earphones,Electronics,1,899,0,Cash on Delivery
+ORD-240085,2024-02-27,C1044,Rohan Kumar,Kolkata,P019,SQL Basics Guide,Books,2,399,5,Net Banking
+ORD-240086,09/02/2024,C1030,ANANYA KUMAR,Jaipur,P015,Resistance Bands Set,Fitness,1,549.00,0,Credit Card
+ORD-240087,06/01/2024,C1029,Rohan Das,Kolkata,P019,SQL Basics Guide,Books,2,₹399.00,0,cash on delivery
+ORD-240088,2024-02-26,C1034,Aditya Iyer,Kochi,P017,Dumbbell Pair 5kg,Fitness,2,1299,0,Cash on Delivery
+ORD-240089,19 Feb 2024,C1019,Sanjana Gupta,  Kochi ,P009,Highlighter Set,stationery,2,220.00,10,UPI
+ORD-240090,17/03/2024,C1006,Karthik Iyer,Jaipur,P010,Steel Water Bottle 1L,Home & Kitchen,2,599.00,10,Debit Card
+ORD-240091,2024-01-03,C1024,Nisha Kumar,  Pune ,P010,Steel Water Bottle 1L,Home & Kitchen,-2,599,0,Net Banking
+ORD-240092,2024-03-08,C1003,Sai Kumar,  Jaipur ,P011,Non-Stick Frying Pan,Home & Kitchen,-2,1099.00,5,UPI
+ORD-240093,31/01/2024,C1029,Rohan Das,Kolkata,P020,Data Analysis Workbook,Books,1,449.00,10,UPI
+ORD-240094,29 Feb 2024,C1019,Sanjana Gupta,Kochi,P013,Storage Box Set,  Home & Kitchen ,2,799,0,Net Banking
+ORD-240095,2024-03-07,C1008,Karthik Joshi,  Jaipur ,P010,Steel Water Bottle 1L,Home & Kitchen,1,Rs. 599,0,Credit Card
+ORD-240096,2024-02-20,C1033,PRIYA SINGH,Chennai,P012,LED Desk Lamp,Home & Kitchen,1,899.00,0,UPI
+ORD-240097,2024-01-18,C1031,Ishaan Kumar,  Pune ,P015,Resistance Bands Set,Fitness,2,549.00,0,cash on delivery
+ORD-240098,22 Mar 2024,C1040,,KOLKATA,P015,Resistance Bands Set,Fitness,1,549,15,Credit Card
+ORD-240099,2024-01-24,C1043,Vivaan Reddy,Mumbai,P003,Bluetooth Speaker,Electronics,2,1999,0,Credit Card
+ORD-240131,24/01/2024,C1001,  Sai Sharma ,Chennai,P011,Non-Stick Frying Pan,Home & Kitchen,3,1099,5,UPI
+ORD-240100,03/01/2024,C1023,sai singh,Chennai,P003,Bluetooth Speaker,Electronics,1,1999,10,UPI
+ORD-240101,2024-02-29,C1045,Sanjana Reddy,Kolkata,P016,Skipping Rope,FITNESS,2,249,15,UPI
+ORD-240102,2024-03-10,C1031,Ishaan Kumar,Pune,P009,Highlighter Set,Stationery,1,220,10,UPI
+ORD-240103,2024-02-19,C1022,Diya Reddy,Delhi,P006,Spiral Notebook A5,stationery,1,120,0,Net Banking
+ORD-240104,11/02/2024,C1043,  Vivaan Reddy ,Mumbai,P010,Steel Water Bottle 1L,Home & Kitchen,1,599.00,5,Debit Card
+ORD-240105,08/01/2024,C1005,  Vivaan Sharma ,BENGALURU,P013,Storage Box Set,Home & Kitchen,1,799.00,15,UPI
+ORD-240106,2024-02-19,C1037,Arjun Nair,Mumbai,P002,USB-C Cable,ELECTRONICS,2,0,10,UPI
+ORD-240107,2024-01-24,C1032,Vivaan Iyer,Hyderabad,P017,Dumbbell Pair 5kg,Fitness,1,1299.00,5,credit card
+ORD-240108,2024-02-26,C1006,Karthik Iyer,Jaipur,P011,Non-Stick Frying Pan,Home & Kitchen,2,0,10,Cash on Delivery
+ORD-240109,2024-01-26,C1009,Meera Iyer,Ahmedabad,P008,Desk Organizer,Stationery,3,450,0,UPI
+ORD-240110,2024-03-08,C1027,Aditya Rao,MUMBAI,P014,Yoga Mat,Fitness,3,abc,0,Net Banking
+ORD-240111,17/01/2024,C1028,Neha Joshi,Delhi,P017,Dumbbell Pair 5kg,  Fitness ,4,"Rs. 1,299",0,Debit Card
+ORD-240112,22/03/2024,C1036,kavya kumar,Ahmedabad,P009,Highlighter Set,Stationery,1,220,0,Debit Card
+ORD-240113,13/03/2024,C1003,Sai Kumar,Jaipur,P001,Wireless Mouse,Electronics,1,699.00,,Cash on Delivery
+ORD-240114,01/02/2024,C1044,  Rohan Kumar ,Kolkata,P013,Storage Box Set,Home & Kitchen,1,799,0,Net Banking
+ORD-240115,2024-02-21,C1009,Meera Iyer,Ahmedabad,P012,LED Desk Lamp,Home & Kitchen,2,899,0,Credit Card
+ORD-240116,21/01/2024,C1021,Vivaan Kumar,Delhi,P019,SQL Basics Guide,Books,2,399,,Credit Card
+ORD-240117,15 Feb 2024,C1004,Aditya Rao,Kolkata,P002,USB-C Cable,Electronics,1,₹349.00,5,UPI
+ORD-240118,21/02/2024,C1004,ADITYA RAO,Kolkata,P019,SQL Basics Guide,Books,2,399,0,COD
+ORD-240119,31/02/2024,C1036,Kavya Kumar,AHMEDABAD,P012,LED Desk Lamp,HOME & KITCHEN,2,899.00,0,Debit Card
+ORD-240120,11/02/2024,C1040,Meera Rao,,P011,Non-Stick Frying Pan,Home & Kitchen,-2,1099,5,UPI
+ORD-240121,15 Jan 2024,C1027,Aditya Rao,Mumbai,P019,SQL Basics Guide,Books,1,399.00,10,Debit Card
+ORD-240122,2024-01-22,C1034,Aditya Iyer,KOCHI,P020,Data Analysis Workbook,Books,2,449,,UPI
+ORD-240123,05/03/2024,C1040,Meera Rao,Kolkata,P016,Skipping Rope,Fitness,3,Rs. 249,10,Credit Card
+ORD-240124,13/02/2024,C1035,Priya Iyer,Ahmedabad,P012,LED Desk Lamp,Home & Kitchen,2,899,15,Debit Card
+ORD-240125,06/02/2024,C1014,Aditya Singh,Bengaluru,P016,Skipping Rope,Fitness,1,249,0,Credit Card
+ORD-240126,2024-02-07,C1003,Sai Kumar,Jaipur,P010,Steel Water Bottle 1L,Home & Kitchen,4,599,0,Debit Card
+ORD-240127,2024-03-16,C1016,,ahmedabad,P008,Desk Organizer,Stationery,1,450,5,UPI
+ORD-240128,22/02/2024,C1042,Rahul Das,Bengaluru,P016,Skipping Rope,FITNESS,1,249.00,0,UPI
+ORD-240129,23 Jan 2024,,,Mumbai,P006,Spiral Notebook A5,Stationery,4,Rs. 120,0,UPI
+ORD-240130,2024-02-12,C1019,Sanjana Gupta,  Kochi ,P015,Resistance Bands Set,Fitness,5,549,5,UPI
+ORD-240156,2024-01-18,C1045,Sanjana Reddy,Kolkata,P003,Bluetooth Speaker,Electronics,2,1999.00,0,Credit Card
+ORD-240131,24/01/2024,C1001,  Sai Sharma ,Chennai,P011,Non-Stick Frying Pan,Home & Kitchen,3,1099,5,UPI
+ORD-240132,2024-01-18,C1031,Ishaan Kumar,Pune,P011,Non-Stick Frying Pan,Home & Kitchen,4,1099,0,UPI
+ORD-240133,26/03/2024,C1008,Karthik Joshi,Jaipur,P015,Resistance Bands Set,Fitness,1,549.00,0,UPI
+ORD-240134,2024-03-02,C1010,Varun Nair,Hyderabad,P015,Resistance Bands Set,Fitness,2,₹549.00,5,Net Banking
+ORD-240135,2024-01-11,C1034,Aditya Iyer,KOCHI,P015,Resistance Bands Set,Fitness,2,549,0,UPI
+ORD-240136,2024-03-28,C1014,ADITYA SINGH,  Bengaluru ,P019,SQL Basics Guide,Books,1,399,5,Cash on Delivery
+ORD-240137,2024-01-01,C1014,ADITYA SINGH,Bengaluru,P019,SQL Basics Guide,Books,1,399,0,UPI
+ORD-240138,2024-03-23,C1042,Rahul Das,Bengaluru,P014,Yoga Mat,fitness,1,Rs. 799,0,UPI
+ORD-240139,09/03/2024,C1026,Karthik Kumar,Chennai,P017,Dumbbell Pair 5kg,Fitness,1,1299.00,0,Credit Card
+ORD-240140,2024-02-05,C1013,Karthik Gupta,Bengaluru,P004,Power Bank 10000mAh,ELECTRONICS,1,1499,10,UPI
+ORD-240141,2024-02-01,C1003,Sai Kumar,JAIPUR,P013,Storage Box Set,Home & Kitchen,1,799,5,Cash on Delivery
+ORD-240142,2024-02-11,C1016,Ananya Sharma,Ahmedabad,P010,Steel Water Bottle 1L,Home & Kitchen,3,599,10,UPI
+ORD-240143,14/02/2024,C1042,Rahul Das,Bengaluru,P013,Storage Box Set,  Home & Kitchen ,3,799,0,UPI
+ORD-240144,2030-01-05,C1036,Kavya Kumar,Ahmedabad,P014,Yoga Mat,Fitness,5,799,5,UPI
+ORD-240063,2024-01-17,C1006,  Karthik Iyer ,Jaipur,P010,Steel Water Bottle 1L,Home & Kitchen,1,599,0,Net Banking
+ORD-240145,2024-02-04,C1025,Rohan Gupta,Pune,P020,Data Analysis Workbook,Books,2,449,15,UPI
+ORD-240146,25/01/2024,C1008,  Karthik Joshi ,Jaipur,P016,Skipping Rope,Fitness,4,249.00,10,Debit Card
+ORD-240147,2024-03-04,C1030,Ananya Kumar,,P004,Power Bank 10000mAh,Electronics,3,1499,10,UPI
+ORD-240148,2024-03-15,C1038,Ishaan Joshi,Jaipur,P014,Yoga Mat,Fitness,1,799.00,0,UPI
+ORD-240149,2024-03-03,C1030,Ananya Kumar,Jaipur,P006,Spiral Notebook A5,Stationery,2,120,0,upi
+ORD-240150,2024-01-01,C1027,  Aditya Rao ,Mumbai,P005,Wired Earphones,Electronics,3,899,0,cash on delivery
+ORD-240151,02 Jan 2024,C1002,ISHAAN IYER,Mumbai,P017,Dumbbell Pair 5kg,Fitness,2,"₹1,299.00",5,UPI
+ORD-240152,20/03/2024,C1034,ADITYA IYER,Kochi,P009,Highlighter Set,Stationery,3,220,0,UPI
+ORD-240153,24/03/2024,C1003,SAI KUMAR,JAIPUR,P003,Bluetooth Speaker,  Electronics ,1,1999,0,Net Banking
+ORD-240154,08/03/2024,C1003,Sai Kumar,Jaipur,P008,Desk Organizer,Stationery,1,450.00,15,Debit Card
+ORD-240155,10/02/2024,C1002,Ishaan Iyer,Mumbai,P007,Gel Pen Pack of 10,Stationery,2,150,15,Net Banking
+ORD-240156,2024-01-18,C1045,Sanjana Reddy,Kolkata,P003,Bluetooth Speaker,Electronics,2,1999.00,0,Credit Card
+ORD-240157,2024-02-27,C1032,Vivaan Iyer,Hyderabad,P008,Desk Organizer,stationery,1,450.00,0,Cash on Delivery
+ORD-240158,2024-03-22,C1010,Varun Nair,Hyderabad,P013,Storage Box Set,Home & Kitchen,1,799,0,Credit Card
+ORD-240159,04/01/2024,C1006,Karthik Iyer,Jaipur,P012,LED Desk Lamp,Home & Kitchen,2,899,5,Debit Card
+ORD-240160,2024-01-22,C1044,Rohan Kumar,KOLKATA,P013,Storage Box Set,Home & Kitchen,1,799,0,UPI
+ORD-240161,2024-03-04,C1039,NEHA NAIR,Kochi,P020,Data Analysis Workbook,Books,1,449,0,Credit Card
+ORD-240162,2024-03-17,C1009,Meera Iyer,Ahmedabad,P010,Steel Water Bottle 1L,Home & Kitchen,1,599,10,Credit Card
+ORD-240163,2024-02-05,C1026,Karthik Kumar,  Chennai ,P012,LED Desk Lamp,Home & Kitchen,1,899,5,Cash on Delivery
+ORD-240164,2024-01-09,C1027,Aditya Rao,Mumbai,P016,Skipping Rope,Fitness,1,249,0,Credit Card
+ORD-240165,29/03/2024,C1027,Aditya Rao,Mumbai,P018,Python Programming Handbook,Books,1,499,0,cash on delivery
+ORD-240166,2024-02-12,C1028,Neha Joshi,Delhi,P004,Power Bank 10000mAh,Electronics,1,1499,0,Credit Card
+ORD-240167,14 Feb 2024,C1002,ishaan iyer,Mumbai,P016,Skipping Rope,Fitness,1,249,0,Net Banking
+ORD-240168,2024-02-26,C1045,Sanjana Reddy,KOLKATA,P015,Resistance Bands Set,Fitness,1,549,0,Cash on Delivery
+ORD-240095,2024-03-07,C1008,  Karthik Joshi ,  Jaipur ,P010,Steel Water Bottle 1L,Home & Kitchen,1,Rs. 599,0,Credit Card
+ORD-240169,12/03/2024,C1028,  Neha Joshi ,Delhi,P015,Resistance Bands Set,Fitness,1,549.00,0,Credit Card
+ORD-240170,27 Jan 2024,C1018,  Aditya Mehta ,Chennai,P003,Bluetooth Speaker,Electronics,2,1999,15,Debit Card
+ORD-240171,2024-02-20,C1038,  Ishaan Joshi ,Jaipur,P004,Power Bank 10000mAh,Electronics,1,"Rs. 1,499",15,Cash on Delivery
+ORD-240172,24/01/2024,C1024,Nisha Kumar,Pune,P005,Wired Earphones,Electronics,2,899,0,UPI
+ORD-240173,10 Feb 2024,C1029,Rohan Das,  Kolkata ,P020,Data Analysis Workbook,Books,1,449,0,Credit Card
+ORD-240174,03/03/2024,C1011,Rohan Joshi,Kolkata,P003,Bluetooth Speaker,Electronics,2,1999,15,Cash on Delivery
+ORD-240175,14 Mar 2024,C1008,Karthik Joshi,Jaipur,P009,Highlighter Set,Stationery,2,220,15,Credit Card
+ORD-240176,08/02/2024,,Sai Kumar,Jaipur,P015,Resistance Bands Set,Fitness,1,549,15,Debit Card
+ORD-240177,24/02/2024,C1011,Rohan Joshi,Kolkata,P020,Data Analysis Workbook,Books,1,449,0,Cash on Delivery
+ORD-240178,06/03/2024,C1044,Rohan Kumar,Kolkata,P004,Power Bank 10000mAh,Electronics,1,1499,15,UPI
+ORD-240179,2024-03-27,C1026,Karthik Kumar,Chennai,P016,Skipping Rope,Fitness,1,₹249.00,10,Debit Card
+ORD-240180,28/02/2024,C1032,Vivaan Iyer,Hyderabad,P011,Non-Stick Frying Pan,Home & Kitchen,2,1099.00,15,UPI
+ORD-240181,2024-01-28,C1032,Vivaan Iyer,Hyderabad,P009,Highlighter Set,Stationery,1,220,0,UPI
+ORD-240182,03 Jan 2024,C1008,Karthik Joshi,Jaipur,P006,Spiral Notebook A5,Stationery,1,₹120.00,0,Net Banking
+ORD-240183,2024-02-02,,Karthik Iyer,Jaipur,P012,LED Desk Lamp,Home & Kitchen,2,899,10,credit card
+ORD-240184,2024-03-07,C1044,rohan kumar,Kolkata,P015,Resistance Bands Set,Fitness,1,549,10,UPI
+ORD-240185,08 Feb 2024,C1009,Meera Iyer,Ahmedabad,P013,Storage Box Set,HOME & KITCHEN,2,799,15,UPI
+ORD-240186,2024-01-20,C1027,Aditya Rao,  Mumbai ,P020,Data Analysis Workbook,books,2,449.00,15,Credit Card
+ORD-240187,11/01/2024,C1016,Ananya Sharma,Ahmedabad,P018,Python Programming Handbook,Books,2,499.00,10,Debit Card
+ORD-240188,2024-03-23,C1004,Aditya Rao,KOLKATA,P008,Desk Organizer,Stationery,1,450,0,UPI
+ORD-240189,2024-02-16,C1035,Priya Iyer,AHMEDABAD,P006,Spiral Notebook A5,Stationery,2,Rs. 120,15,Credit Card
+ORD-240190,2024-02-23,C1028,  Neha Joshi ,delhi,P013,Storage Box Set,HOME & KITCHEN,1,Rs. 799,5,UPI
+ORD-240191,24/03/2024,C1044,Rohan Kumar,KOLKATA,P003,Bluetooth Speaker,electronics,1,1999,0,Debit Card
+ORD-240192,2024-01-23,C1008,Karthik Joshi,Jaipur,P001,Wireless Mouse,Electronics,2,₹699.00,10,UPI
+ORD-240193,2024-01-16,C1002,Ishaan Iyer,Mumbai,P011,Non-Stick Frying Pan,Home & Kitchen,3,1099,0,UPI
+ORD-240194,2024-02-02,C1007,Sanjana Sharma,JAIPUR,,SQL Basics Guide,Books,2,399,0,Credit Card
+ORD-240195,2024-01-05,C1036,Kavya Kumar,Ahmedabad,P014,Yoga Mat,FITNESS,1,799,0,UPI
+ORD-240196,21/02/2024,C1005,Vivaan Sharma,Bengaluru,P015,Resistance Bands Set,FITNESS,3,549,15,UPI
+ORD-240197,2024-03-04,C1013,Karthik Gupta,,P018,Python Programming Handbook,Books,2,499.00,150,UPI
+ORD-240198,2024-02-09,C1007,Sanjana Sharma,Jaipur,P007,Gel Pen Pack of 10,  Stationery ,2,150,,UPI
+ORD-240199,2024-02-17,C1030,Ananya Kumar,JAIPUR,P003,Bluetooth Speaker,Electronics,2,1999,5,UPI
+ORD-240200,2024-02-20,C1045,Sanjana Reddy,  Kolkata ,P011,Non-Stick Frying Pan,Home & Kitchen,1,1099,0,Credit Card
+ORD-240201,2024-01-27,C1029,  Rohan Das ,Kolkata,P010,Steel Water Bottle 1L,Home & Kitchen,1,599.00,,Net Banking
+ORD-240202,2024-02-15,C1026,Karthik Kumar,CHENNAI,P017,Dumbbell Pair 5kg,Fitness,1,1299,0,UPI
+ORD-240032,2024-02-23,C1017,  Neha Reddy ,Kolkata,P003,Bluetooth Speaker,Electronics,1,1999.00,10,Net Banking
+ORD-240203,2024-01-16,C1001,Sai Sharma,Chennai,P002,USB-C Cable,Electronics,3,349.00,0,UPI
+ORD-240204,26 Jan 2024,C1042,Rahul Das,Bengaluru,P015,Resistance Bands Set,FITNESS,3,549,0,Debit Card
+ORD-240205,18 Feb 2024,C1044,Rohan Kumar,Kolkata,P014,Yoga Mat,  Fitness ,1,799.00,0,Cash on Delivery
+ORD-240206,2024-01-08,C1006,Karthik Iyer,Jaipur,P009,Highlighter Set,Stationery,1,₹220.00,0,Credit Card
+ORD-240207,2024-03-03,C1023,SAI SINGH,Chennai,P019,SQL Basics Guide,BOOKS,2,₹399.00,0,Net Banking
+ORD-240208,2024-01-30,C1011,Rohan Joshi,Kolkata,P004,Power Bank 10000mAh,ELECTRONICS,1,"Rs. 1,499",0,Net Banking
+ORD-240209,23/01/2024,C1012,Priya Nair,Mumbai,P008,Desk Organizer,Stationery,2,450,15,UPI
+ORD-240210,2024-03-04,C1035,Priya Iyer,Ahmedabad,P010,Steel Water Bottle 1L,Home & Kitchen,1,599,0,UPI
+ORD-240211,11 Feb 2024,C1004,Aditya Rao,Kolkata,P001,Wireless Mouse,Electronics,1,Rs. 699,10,Cash on Delivery
+ORD-240212,18/01/2024,C1011,  Rohan Joshi ,Kolkata,P014,Yoga Mat,Fitness,3,Rs. 799,0,UPI
+ORD-240213,29 Mar 2024,C1019,Sanjana Gupta,Kochi,P005,Wired Earphones,Electronics,1,Rs. 899,,Debit Card
+ORD-240214,2024-03-22,C1037,ARJUN NAIR,Mumbai,P004,Power Bank 10000mAh,Electronics,4,1499.00,0,Net Banking
+ORD-240215,2024-02-27,C1001,Sai Sharma,chennai,P009,Highlighter Set,STATIONERY,1,220,10,UPI
+ORD-240216,10 Mar 2024,C1025,Rohan Gupta,Pune,P004,Power Bank 10000mAh,  Electronics ,3,1499,15,UPI
+ORD-240217,2024-02-13,C1011,Rohan Joshi,kolkata,P013,Storage Box Set,Home & Kitchen,1,799.00,0,UPI
+ORD-240218,25 Feb 2024,C1011,Rohan Joshi,Kolkata,P002,USB-C Cable,Electronics,1,349,0,UPI
+ORD-240219,2024-03-03,C1010,Varun Nair,Hyderabad,P002,USB-C Cable,Electronics,1,349,0,Cash on Delivery
+ORD-240220,2024-02-09,C1026,Karthik Kumar,Chennai,P016,Skipping Rope,Fitness,1,249,10,UPI
+ORD-240221,04/02/2024,C1037,arjun nair,Mumbai,P002,USB-C Cable,Electronics,1,Rs. 349,10,Debit Card
+ORD-240222,2024-03-09,C1044,ROHAN KUMAR,Kolkata,P016,Skipping Rope,Fitness,,249,0,Net Banking
+ORD-240223,2024-02-27,C1012,PRIYA NAIR,MUMBAI,P006,Spiral Notebook A5,Stationery,5,120,15,UPI
+ORD-240224,2024-01-09,C1006,Karthik Iyer,Jaipur,P013,Storage Box Set,Home & Kitchen,2,799.00,5,Debit Card
+ORD-240225,13 Mar 2024,C1038,Ishaan Joshi,jaipur,P019,SQL Basics Guide,Books,2,399,0,Credit Card
+ORD-240226,01/03/2024,C1003,Sai Kumar,Jaipur,P006,Spiral Notebook A5,Stationery,1,abc,0,UPI
+ORD-240227,2024-01-03,C1022,Diya Reddy,delhi,P010,Steel Water Bottle 1L,Home & Kitchen,1,599,15,Credit Card
+ORD-240228,18 Mar 2024,C1042,Rahul Das,Bengaluru,P003,Bluetooth Speaker,Electronics,1,1999,,Net Banking
+ORD-240229,18 Jan 2024,C1034,  Aditya Iyer ,KOCHI,P019,SQL Basics Guide,BOOKS,1,399,0,UPI
+ORD-240230,22/03/2024,C1008,  Karthik Joshi ,Jaipur,P001,Wireless Mouse,Electronics,1,699,0,UPI
